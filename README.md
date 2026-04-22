@@ -141,5 +141,5 @@ Projeto acadêmico — uso livre para fins educacionais.
 ---
 
 <div align="center">
-  <sub>Desenvolvido por <strong>Lucas Eduardo C. do Nascimento</strong> · UNA Contagem · 2025</sub>
+  <sub>Desenvolvido por <strong>Lucas Eduardo C. do Nascimento</strong> · UNA Contagem · 2026</sub>
 </div>
